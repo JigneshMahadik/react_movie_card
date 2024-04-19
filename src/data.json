@@ -1,0 +1,35 @@
+{
+    "movies": [
+      {
+        "name": "Inception",
+        "release_year": 2010,
+        "director": "Christopher Nolan",
+        "duration_minutes": 148,
+        "type": "Sci-Fi/Thriller",
+        "detail": "A mind-bending journey into the world of dreams where a thief is tasked with planting an idea into the subconscious of a CEO.",
+        "pic_square": "https://images.squarespace-cdn.com/content/v1/5ec686197f8b2976074846c2/1618809593080-N5PB8CWYOW3OPDE2TT6E/Feature+3-1.png",
+        "pic_vertical": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEOsCyygH8TLQ7UQ3XY3djtjFnBj2kK8DioOZMZyr8nDXDJFBwF-_KiYrOFfpqdNQv3Tg&usqp=CAU"
+      },
+      {
+        "name": "The Godfather",
+        "release_year": 1972,
+        "director": "Francis Ford Coppola",
+        "duration_minutes": 175,
+        "type": "Crime/Drama",
+        "detail": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "pic_square": "https://media.themoviedb.org/t/p/w780/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "pic_vertical": "https://static0.srcdn.com/wordpress/wp-content/uploads/2023/05/the-godfather-poster.jpeg"
+      },
+      {
+        "name": "Pulp Fiction",
+        "release_year": 1994,
+        "director": "Quentin Tarantino",
+        "duration_minutes": 154,
+        "type": "Crime/Comedy",
+        "detail": "Interwoven stories of Los Angeles mobsters, fringe players, small-time criminals, and a mysterious briefcase.",
+        "pic_square": "https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(53)(277).jpg",
+        "pic_vertical": "https://content1.jdmagicbox.com/comp/jd_social/news/2018jul20/image-112130-jh9ecyoqrh.jpg?fit=around|210:308&crop=210:308;*,*"
+      }
+    ]
+  }
+  
